@@ -24,4 +24,19 @@ img{
 
 .top-nav{
     background-color: #ff4d29;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
+
+.top-nav p{
+    margin-bottom: 0;
+    display: inline-block;
+    margin-right: 16px;
+    color: #ffffff;
+}
+
+.top-nav i,
+.top-nav span{
+    vertical-align: middle;
+}
+
