@@ -16,6 +16,7 @@ a{
     color: #092032;
     text-decoration: none;
     transition: ALL 0.4 ease;
+    font-weight: 500;
 }
 
 img{
@@ -72,4 +73,15 @@ img{
 
 .navbar-brand span{
     color: #ff4d29;
+}
+
+/* btn*/
+.btn{
+    padding: 9px 24px;
+}
+
+.btn-brand{
+    background-color: #ff4d29;
+    color: #ffffff;
+    border-color: #ff4d29;
 }
