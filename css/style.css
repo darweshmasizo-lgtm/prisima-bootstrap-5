@@ -63,3 +63,13 @@ img{
 .navbar{
     box-shadow: 0px 6px 30px rgha(0, 0, 0, 0.08);
 }
+
+.navbar-brand{
+    font-weight: 700;
+    font-size: 26px;
+    color: #092032;
+}
+
+.navbar-brand span{
+    color: #ff4d29;
+}
